@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/project/daoimp/SaveAdjustedWeightDaoImp.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/project/daoimp/GetTargetOutputDaoImp.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/kmeans/MainActivity.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/kmeans/FirstClusterModel.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/nce/project/TrainingWindow.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/kmeans/CalculateCenterOfCluster.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/project/daoimp/FeaturesSaveDaoImp.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/kmeans/KMeansSegmentation.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/nce/project/TestWindow.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/nce/project/training_testing.png</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/kmeans/SecondClusterModel.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/DBConnection/DBConnection.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/project/model/MatchingPercent.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/nce/project/MainWindow.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/kmeans/FourthClusterModel.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/kmeans/CalculateDistance.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/project/daoimp/GetInputFeatureDaoImp.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/kmeans/FindMinDistanceAmongThreeCluster.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/nce/project/FeatureExtractForTraining.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/project/daoimp/SaveDiseaseCountDaoImp.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/nce/project/Checked-100.png</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/kmeans/ThirdClusterModel.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/project/neuralnetwork/BackPropagationNeuralNetwork.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/project/model/InputPattern.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/project/daoimp/GetingOutputDaoImp.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/nce/project/ReadMultipleImage.java</file>
+            <file>file:/C:/Users/985570/Desktop/Raju_Machine_Learning/Project/kmeans%20cluster%20project/DetectionOfPlant/src/com/paddy/project/daoimp/GetWeightDaoImp.java</file>
+        </group>
+    </open-files>
+</project-private>
